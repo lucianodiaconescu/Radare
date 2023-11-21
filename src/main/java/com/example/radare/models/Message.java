@@ -1,4 +1,4 @@
-package com.example.radare;
+package com.example.radare.models;
 
 public class Message {
     private String date;
